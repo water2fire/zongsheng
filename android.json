@@ -1,0 +1,11 @@
+{
+    "domainUrl":"",
+    "updateUrl":"http://appdown.0615yx.com/zongsheng_download/",
+    "branches":[
+      {
+        "code":"1000",
+        "version":"1.0.0",
+        "status":"release"
+      }
+    ]
+  }
